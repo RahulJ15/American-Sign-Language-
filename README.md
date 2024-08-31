@@ -47,4 +47,4 @@ This project focuses on building a Convolutional Neural Network (CNN) model to r
 
 ## License:
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
